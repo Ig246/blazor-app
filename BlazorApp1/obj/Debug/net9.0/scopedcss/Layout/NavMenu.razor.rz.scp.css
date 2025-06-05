@@ -1,0 +1,41 @@
+:root[b-da4la3n260] {
+    --bs: #00000032;
+}
+
+*[b-da4la3n260] {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+li[b-da4la3n260] {
+    list-style: none;
+}
+
+.ww-link[b-da4la3n260] {
+    text-decoration: none;
+    color: black;
+}
+
+.ww-link:hover[b-da4la3n260] {
+    color: #343435;
+}
+
+.header[b-da4la3n260] {
+    min-height: 100px;
+    box-shadow: 7px 7px 6px #00000032;
+}
+
+.nav-list[b-da4la3n260] {
+    display: flex;
+    gap: 40px;
+}
+
+.nav[b-da4la3n260] {
+    max-width: 1200px;
+    display: flex;
+    min-height: inherit;
+    align-items: center;
+    margin: 0 auto;
+    justify-content: space-around;
+}

@@ -1,0 +1,10 @@
+.btn[b-5383j6hyu8] {
+    padding: 15px 25px;
+    background: #dadada;
+    border-radius: 10px;
+    display: none;
+}
+
+.btn.active[b-5383j6hyu8] {
+    display: inline-block;
+}

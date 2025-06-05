@@ -1,0 +1,10 @@
+.btn {
+    padding: 15px 25px;
+    background: #dadada;
+    border-radius: 10px;
+    display: none;
+}
+
+.btn.active {
+    display: inline-block;
+}
